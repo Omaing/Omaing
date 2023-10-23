@@ -8,6 +8,7 @@
   - [Azure Honeynet Home Lab](https://github.com/Omaing/Azure-Honeynet-Home-Lab)
 
 <h2>📃 Certifications:</h2>
+- [Google Cybersecurity Certificate](https://coursera.org/share/1876256425b9e3671b8bdec098e8417c)
 
 <h2> 🤳 Connect with me:</h2>
 
