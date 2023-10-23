@@ -4,8 +4,8 @@
 
 - <b>Vulnerability Management Practice (Nessus Essentials)</b>
   - [Praciting Vulnerability Management in Nessus Essentials](https://github.com/Omaing/Cyber-Portfolio#cyber-portfolio)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Azure Honeynet Home Lab</b>
+  - [Azure Honeynet Home Lab](https://github.com/Omaing/Azure-Honeynet-Home-Lab)
 
 
 <h2> 🤳 Connect with me:</h2>
