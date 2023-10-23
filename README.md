@@ -7,6 +7,7 @@
 - <b>Azure Honeynet Home Lab</b>
   - [Azure Honeynet Home Lab](https://github.com/Omaing/Azure-Honeynet-Home-Lab)
 
+<h2>📃 Certifications:</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
