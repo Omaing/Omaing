@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Vulnerability Management Practice (Nessus Essentials)</b>
-  - [Praciting Vulnerability Management in Nessus Essentials](https://github.com/Omaing/Cyber-Portfolio#cyber-portfolio)
-- <b>Azure Honeynet Home Lab</b>
-  - [Azure Honeynet Home Lab](https://github.com/Omaing/Azure-Honeynet-Home-Lab)
+- <b>Vulnerability Management Lab (Nessus Essentials)</b>
+  - [Vulnerability Management with Nessus Essentials](https://github.com/Omaing/Vulnerability-Management)
+- <b>Azure Sentinel Home Lab</b>
+  - [Azure Sentinel Home Lab](https://github.com/Omaing/Sentinel-Lab)
 
 <h2>📃 Certifications:</h2>
 
